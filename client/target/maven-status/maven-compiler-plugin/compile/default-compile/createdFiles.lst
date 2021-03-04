@@ -1,8 +1,0 @@
-com/baeldung/springsoap/client/CountryClientConfig.class
-com/baeldung/springsoap/client/gen/ObjectFactory.class
-com/baeldung/springsoap/client/gen/Country.class
-com/baeldung/springsoap/client/gen/GetCountryResponse.class
-com/baeldung/springsoap/client/CountryClient.class
-com/baeldung/springsoap/client/gen/package-info.class
-com/baeldung/springsoap/client/gen/GetCountryRequest.class
-com/baeldung/springsoap/client/gen/Currency.class
