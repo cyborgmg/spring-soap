@@ -1,0 +1,16 @@
+/home/cyborg/java/Workspaces/cursos-workspace/spring-soap/server/src/main/java/com/baeldung/springsoap/gen/package-info.java
+/home/cyborg/java/Workspaces/cursos-workspace/spring-soap/server/src/main/java/com/baeldung/springsoap/gen/GetCountryResponse.java
+/home/cyborg/java/Workspaces/cursos-workspace/spring-soap/server/src/main/java/com/baeldung/springsoap/CountryRepository.java
+/home/cyborg/java/Workspaces/cursos-workspace/spring-soap/server/src/main/java/com/baeldung/springsoap/WebServiceConfig.java
+/home/cyborg/java/Workspaces/cursos-workspace/spring-soap/server/src/main/java/com/baeldung/springsoap/gen/Country.java
+/home/cyborg/java/Workspaces/cursos-workspace/spring-soap/server/src/main/java/com/baeldung/springsoap/gen/ObjectFactory.java
+/home/cyborg/java/Workspaces/cursos-workspace/spring-soap/server/src/main/java/com/baeldung/springsoap/client/gen/package-info.java
+/home/cyborg/java/Workspaces/cursos-workspace/spring-soap/server/src/main/java/com/baeldung/springsoap/client/gen/Currency.java
+/home/cyborg/java/Workspaces/cursos-workspace/spring-soap/server/src/main/java/com/baeldung/springsoap/client/gen/GetCountryRequest.java
+/home/cyborg/java/Workspaces/cursos-workspace/spring-soap/server/src/main/java/com/baeldung/springsoap/client/gen/Country.java
+/home/cyborg/java/Workspaces/cursos-workspace/spring-soap/server/src/main/java/com/baeldung/springsoap/client/gen/GetCountryResponse.java
+/home/cyborg/java/Workspaces/cursos-workspace/spring-soap/server/src/main/java/com/baeldung/springsoap/Application.java
+/home/cyborg/java/Workspaces/cursos-workspace/spring-soap/server/src/main/java/com/baeldung/springsoap/gen/GetCountryRequest.java
+/home/cyborg/java/Workspaces/cursos-workspace/spring-soap/server/src/main/java/com/baeldung/springsoap/gen/Currency.java
+/home/cyborg/java/Workspaces/cursos-workspace/spring-soap/server/src/main/java/com/baeldung/springsoap/CountryEndpoint.java
+/home/cyborg/java/Workspaces/cursos-workspace/spring-soap/server/src/main/java/com/baeldung/springsoap/client/gen/ObjectFactory.java
